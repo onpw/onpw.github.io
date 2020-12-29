@@ -2,4 +2,4 @@
 layout: default
 ---
 
-### Compile OpenWRT
+### [Compile OpenWRT](./page/compile-openwrt.html)
